@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxyne</h1>
-<h3 align="center">A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise. I'm particularly interested to learn about Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills and explore more various components/concepts of intelligent systems.</h3>
+<h3 align="center">A passionate junior computer science student with a strong enthusiasm and determination in furthering my expertise. I'm particularly interested to learn about Natural Language Processing, Machine Learning, and Artificial Intelligence to build my skills and explore more various concepts of intelligent systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxyyyne&label=Profile%20views&color=0e75b6&style=flat" alt="maxyyyne" /> </p>
